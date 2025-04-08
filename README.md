@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D98BA&height=200&section=header&text=Abhishek%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 ### 👋 Hi there! I'm Abhishek Pandey
+![image](https://github.com/user-attachments/assets/ea27c56e-8f34-4dc3-9e92-535ff4db9883)
+
 
 🎓 B.Tech CSE (Cybersecurity) @ RBU (RCOEM), Nagpur  
 🎯 Aspiring Software Developer | 💻 DSA (Java) + Web Dev  
