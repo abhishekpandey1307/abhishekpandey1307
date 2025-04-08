@@ -1,6 +1,7 @@
-![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/79ce4e2c-7e0b-44e2-9705-2e02d0f03164)
+![ChatGPT Image Apr 9, 2025, 02_59_50 AM](https://github.com/user-attachments/assets/294a4c17-8826-4854-829c-66a269496461)
+
 # 👋 Hi there! I'm Abhishek Pandey
-<img src="https://raw.githubusercontent.com/abhishekpandey1307/abhishekpandey1307/main/github-banner.png" alt="Abhishek Pandey Banner" width="100%" />
+
 
 
 
