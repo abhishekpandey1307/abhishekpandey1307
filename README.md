@@ -1,6 +1,5 @@
 ### 👋 Hi there! I'm Abhishek Pandey
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D98BA&height=200&section=header&text=Abhishek%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
+![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/79ce4e2c-7e0b-44e2-9705-2e02d0f03164)
 
 
 🎓 B.Tech CSE (Cybersecurity) @ RBU (RCOEM), Nagpur  
