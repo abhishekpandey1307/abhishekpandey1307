@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D98BA&height=200&section=header&text=Abhishek%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 ### 👋 Hi there! I'm Abhishek Pandey
 
 🎓 B.Tech CSE (Cybersecurity) @ RBU (RCOEM), Nagpur  
