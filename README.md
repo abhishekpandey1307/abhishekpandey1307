@@ -4,7 +4,6 @@
 
 🎓 B.Tech CSE (Cybersecurity) @ RBU (RCOEM), Nagpur  
 🎯 Aspiring Software Developer | 💻 DSA (Java) + Web Dev  
-📚 Currently learning: TailwindCSS & JavaScript  
 🌱 Working on: Frontend Projects (HTML, CSS, JS)
 
 📫 Email: write2abhishek4400@gmail.com  
