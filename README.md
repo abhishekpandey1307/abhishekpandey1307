@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 9, 2025, 02_59_50 AM](https://github.com/user-attachments/assets/294a4c17-8826-4854-829c-66a269496461)
+![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/79ce4e2c-7e0b-44e2-9705-2e02d0f03164)
 
 # 👋 Hi there! I'm Abhishek Pandey
 
