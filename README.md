@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,tailwind" alt="My Tech Stack" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
 - YouTube Premium Clone  
   Recreated YouTube Premium UI using HTML and CSS
@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 Current Focus
+## 📈 Current Focus
 
 - Sharpening DSA in Java  
 - Building responsive UIs with TailwindCSS  
