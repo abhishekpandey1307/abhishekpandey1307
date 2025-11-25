@@ -24,10 +24,10 @@
 
 ## 🚀 Projects
 
-Rakt-Setu – Emergency Blood Donor Finder
+Rakt-Setu – Emergency Blood Donor Finder<br>
 Finds nearby blood donors instantly.
 
-Annadaan – Leftover Food Donation Web App
+Annadaan – Leftover Food Donation Web App<br>
 Connects donors with NGOs to share leftover food.
 
 ---
