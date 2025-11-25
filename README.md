@@ -25,10 +25,12 @@
 ## 🚀 Projects
 
 Rakt-Setu – Emergency Blood Donor Finder<br>
-Finds nearby blood donors instantly.
+Finds nearby blood donors instantly.<br>
+Live Demo: https://rakt-setu.netlify.app/
 
 Annadaan – Leftover Food Donation Web App<br>
-Connects donors with NGOs to share leftover food.
+Connects donors with NGOs to share leftover food.<br>
+Live Demo: https://annadaanindia.netlify.app/
 
 ---
 
