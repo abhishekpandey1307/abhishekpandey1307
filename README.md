@@ -6,8 +6,8 @@
 
 
 🎓 Final Year B.Tech CSE @ RBU (RCOEM), Nagpur  
-🎯 Aspiring Software Developer | 💻 DSA (Java) + Web Dev  
-🌱 Working on: Frontend Projects (HTML, CSS, JS)
+🎯 Aspiring Software Developer | 💻 Web Dev  
+I’m driven by a vision where a single line of code can make life easier for millions of people.
 
 📫 Email: write2abhishek4400@gmail.com  
 🔗 LinkedIn: [abhishek-santosh-pandey](https://www.linkedin.com/in/abhishek-santosh-pandey)
