@@ -5,7 +5,7 @@
 
 
 
-🎓 B.Tech CSE (Cybersecurity) @ RBU (RCOEM), Nagpur  
+🎓 Final Year B.Tech CSE @ RBU (RCOEM), Nagpur  
 🎯 Aspiring Software Developer | 💻 DSA (Java) + Web Dev  
 🌱 Working on: Frontend Projects (HTML, CSS, JS)
 
@@ -24,18 +24,13 @@
 
 ## 🚀 Projects
 
-- YouTube Premium Clone  
-  Recreated YouTube Premium UI using HTML and CSS
+Rakt-Setu – Emergency Blood Donor Finder
+Finds nearby blood donors instantly.
 
-- WhatsApp UI Clone
-  Responsive chat UI using HTML and CSS
-
-- Frontend Projects – In progress…
+Annadaan – Leftover Food Donation Web App
+Connects donors with NGOs to share leftover food.
 
 ---
 
-## 📈 Current Focus
-
-- Sharpening DSA in Java  
-- Building responsive UIs with TailwindCSS  
-- Preparing for SDE internships  
+## 📈 Current Focus 
+- Looking for SDE internships  
