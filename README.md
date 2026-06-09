@@ -17,7 +17,7 @@ I’m driven by a vision where a single line of code can make life easier for mi
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,firebase" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,nodejs,express" alt="My Tech Stack" />
 </p>
 
 ---
