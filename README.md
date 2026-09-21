@@ -7,7 +7,7 @@
 
 🎓 Final Year B.Tech CSE @ RBU (RCOEM), Nagpur  
 🎯 Aspiring Software Developer | 💻 Web Dev  
-I’m driven by a vision where a single line of code can make life easier for millions of people.
+I’m driven by a vision where a single line of code can make someone's life easier
 
 📫 Email: write2abhishek4400@gmail.com  
 🔗 LinkedIn: [abhishek-santosh-pandey](https://www.linkedin.com/in/abhishek-santosh-pandey)
